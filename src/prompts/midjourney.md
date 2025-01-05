@@ -1,0 +1,1 @@
+**crie uma coxinha (salgado brasileiro) envolvida em folhas de ouro e ao fundo um estudio de podcast com equipamentos de microfone a arte deve ter estilo de video game anos 80 com uma paleta de cores bem colorida e vinatage quero que a imagem tenha 16:9 para capa de podcast**

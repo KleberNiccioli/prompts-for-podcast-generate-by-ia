@@ -5,6 +5,17 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em finanças pessoais e como começar o ano economizando e criando uma reserva de emergencia
+de nomes criativos para um podcast de financas, e que tenha algum trocadilho mão de vaca no titulo 
+O podcast vai falar sobre dicas e novidades sobre o mundo de financas pessoais e como economizar e fazer coisas legais sem gastar tanto
 
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho de pessoa mão de vaca como por exemplo o primo pobre
+- O nome deve conter alguma palavra forte que remeta a economia
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não utilize calculos matematicos complexos ou formulas mirabolantes que sejam de dificil entendimento
